@@ -1,9 +1,6 @@
 		Instruções para uso do sistema de Eleição
 
-	Aluno: Lucas Martins Vasconcelos - 11821EEL002
-	Métodos e Técnicas de Programação - AARE
-	Professora: Eliana Pantaleão
-	Trabalho final da disciplina :)
+	Lucas Martins Vasconcelos
 
 O sistema consiste em um aplicativo voltado para desktop, desenvolvido
 em java na plataforma NetBeans versão 12.0 em um ambiente de desenvol-
